@@ -41,7 +41,7 @@ export const UserStorage = ({ children }) => {
       await getUser(token);
       navigate('/conta');
     } catch (error) {
-      setError(error.message);
+      setError('Usuário ou senha errado');
       setLogin(false);
     } finally {
       setLoading(false);
