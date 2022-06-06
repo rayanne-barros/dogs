@@ -37,4 +37,4 @@ npm run dev
 <br>
 
 ## Deploy do projeto:
-<a href="https://dogs-sandy.vercel.app/" target="_blank" rel="noopener noreferrer" title="Dogs"><img src="https://i.postimg.cc/NjPQDJ2q/dogs.png" alt="Imagem do Projeto" width="800" height=""/></a>
+<a href="https://dogs-sandy.vercel.app/" target="_blank" rel="noopener noreferrer" title="Dogs"><img src="https://i.postimg.cc/wjNw437q/dogs.png" alt="Imagem do Projeto" width="800" height=""/></a>
